@@ -8,14 +8,14 @@
 #### Project manager / Contact person
 | Contact info      | Details                        |
 | ----------------- | ------------------------------ |
-| **Name**          |  _First, Surname_              |
-| **Email adress**  |  _email@domain.com_            |
-| **Telephone no**  |  _+46 70-555 555_              |
+| **Name**          |  Luís, Valente              |
+| **Email adress**  | lvalente@uporto.pt            |
+| **Telephone no**  |  _+351 967 417 414_              |
 
 #### Developing members
 |     Role       |      Name         |              Email adress                 |
 | -------------  | ----------------- | ----------------------------------------- |
-|      -         |                   |                                           |
+|   Developer    |   Ana Carvalho    |      accarvalho@uporto.pt                 |
 |      -         |                   |                                           |
 |      -         |                   |                                           |             
 
